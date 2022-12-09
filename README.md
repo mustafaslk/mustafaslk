@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h3 align="center">Software developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Eva](https://eva.guru/)
-
-- 👨‍💻 All of my projects are available at [https://wordpresscim.com/](https://wordpresscim.com/)
-
-- 📝 I regularly write articles on [https://wordpresscim.com/](https://wordpresscim.com/)
-
-- 📫 How to reach me **admin@wordpresscim.com**
-
-- 📄 Know about my experiences [https://wordpresscim.com/](https://wordpresscim.com/)
 
 
 <h3 align="left">Languages and Tools:</h3>
